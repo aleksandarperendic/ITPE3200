@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYHBGqYb2AsZEpa0UiSoqnDbF9+2vXDC8otJosp7aXYeA+5Pdrhksj6j65SKjT0mXr4TS/cLpVfNzIRojpSnBA==",
+  "success": true,
+  "projectFilePath": "/Users/aleksandarperendic/Projects/KundeApp1/KundeApp1/KundeApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksandarperendic/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/aleksandarperendic/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/aleksandarperendic/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
