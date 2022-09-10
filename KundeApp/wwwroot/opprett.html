@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Opprett skjema</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/2.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/opprett.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Opprett kunde</h1>
+        <form class="form">
+            <div class="form-group">
+                <label>Fornavn</label>
+                <input type="text" id="fornavn" />
+            </div>
+            <div class="form-group">
+                <label>Etternavn</label>
+                <input type="text" id="etternavn" />
+            </div>
+            <div class="form-group">
+                <label>Adresse</label>
+                <input type="text" id="adresse" />
+            </div>
+            <div class="form-group">
+                <label>Postnummer</label>
+                <input type="text" id="postnr" />
+            </div>
+            <div class="form-group">
+                <label>Poststed</label>
+                <input type="text" id="poststed" />
+            </div>
+            <div class="form-group">
+                <input type="button" id="reg" value="Registrer" onClick="opprettKunde()" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+</body>
+</html>
