@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bbk1baGA6Vrx9vP0IagvPHnTFAdIIepzW5Oq41y2wHESIzNZUwDs5tnEEsiRnRdQWSFW5wvU5AhUZuxoycMx/A==",
+  "dgSpecHash": "srv3gwb68xG2Pb7l2POcEheBlmMbQ/SmYd/I3dTQ3+WwzKM9B0LtcdaeAZraP2b6dcHXDOWb+dSXcN0oj3Kzcw==",
   "success": true,
-  "projectFilePath": "/Users/aleksandarperendic/Projects/Jenny/KundeApp/KundeApp/KundeApp.csproj",
+  "projectFilePath": "/Users/aleksandarperendic/Projects/ITPE3200/KundeApp/KundeApp.csproj",
   "expectedPackageFiles": [
     "/Users/aleksandarperendic/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/Users/aleksandarperendic/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

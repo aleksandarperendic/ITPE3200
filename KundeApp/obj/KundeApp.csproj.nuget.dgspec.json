@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksandarperendic/Projects/Jenny/KundeApp/KundeApp/KundeApp.csproj": {}
+    "/Users/aleksandarperendic/Projects/ITPE3200/KundeApp/KundeApp.csproj": {}
   },
   "projects": {
-    "/Users/aleksandarperendic/Projects/Jenny/KundeApp/KundeApp/KundeApp.csproj": {
+    "/Users/aleksandarperendic/Projects/ITPE3200/KundeApp/KundeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksandarperendic/Projects/Jenny/KundeApp/KundeApp/KundeApp.csproj",
+        "projectUniqueName": "/Users/aleksandarperendic/Projects/ITPE3200/KundeApp/KundeApp.csproj",
         "projectName": "KundeApp",
-        "projectPath": "/Users/aleksandarperendic/Projects/Jenny/KundeApp/KundeApp/KundeApp.csproj",
+        "projectPath": "/Users/aleksandarperendic/Projects/ITPE3200/KundeApp/KundeApp.csproj",
         "packagesPath": "/Users/aleksandarperendic/.nuget/packages/",
-        "outputPath": "/Users/aleksandarperendic/Projects/Jenny/KundeApp/KundeApp/obj/",
+        "outputPath": "/Users/aleksandarperendic/Projects/ITPE3200/KundeApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksandarperendic/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,6 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
